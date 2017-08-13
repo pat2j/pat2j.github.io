@@ -1,0 +1,57 @@
+/* stylesheet for broadway design homepage */
+
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+header {
+  background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
+}
+
+footer {
+  background-color: dimgray;
+  text-align: left;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: black;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+h5 {
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+}
+
+
+h6 {
+  font-size: 11px;
+  font-weight: normal;
+  color: white;
+}
+
+h4,h6 {
+  display: inline;
+}
